@@ -1,0 +1,393 @@
+{
+  "result": {
+    "game_id": 3337,
+    "name": "Wild Buffalo",
+    "alias": "175112-wild-buffalo",
+    "ratio": "16:9",
+    "images": {
+      "small": "https://altacdn.com/cj/img/games/175112-wild-buffalo.jpg",
+      "mid": "https://altacdn.com/cj/img/games/175112-wild-buffalo_thumbnailx2.jpg",
+      "big": null,
+      "promo": "https://altacdn.com/cj/img/games/175112-wild-buffalo.jpg"
+    },
+    "idx": 65,
+    "rtp": "",
+    "brand": {
+      "brand_id": 800,
+      "name": "NetGame",
+      "logo": null
+    },
+    "tournament": {
+      "tournament_id": 50183,
+      "title": "Test",
+      "alias": "Test-50183",
+      "description": {
+        "excerpt": "",
+        "info": "",
+        "popup": "",
+        "rules": ""
+      },
+      "images": {
+        "main": "https://altacdn.com/cj/img/tournaments/203907-img.webp",
+        "head": "https://altacdn.com/cj",
+        "widget": "https://altacdn.com/cj",
+        "icon": "https://altacdn.com/cj",
+        "popup": "https://altacdn.com/cj"
+      },
+      "status": "running",
+      "start": "2024-11-15 00:00:00",
+      "end": "2024-11-30 23:59:00",
+      "countdown": 1345454970,
+      "joined": true,
+      "min_bets": [
+        {
+          "currency": "EUR",
+          "amount": 0.25
+        }
+      ],
+      "win_limit": 400,
+      "min_players": null,
+      "type": "multipliers",
+      "games": [
+        {
+          "game_id": 3337,
+          "name": "Wild Buffalo",
+          "alias": "175112-wild-buffalo",
+          "ratio": "16:9",
+          "images": {
+            "small": "https://altacdn.com/cj/img/games/175112-wild-buffalo.jpg",
+            "mid": "https://altacdn.com/cj/img/games/175112-wild-buffalo_thumbnailx2.jpg",
+            "big": null,
+            "promo": "https://altacdn.com/cj/img/games/175112-wild-buffalo.jpg"
+          },
+          "idx": 65,
+          "brand": {
+            "brand_id": 800,
+            "name": "NetGame",
+            "logo": "https://altacdn.com/cj/img/brands/netgame_logo.svg"
+          },
+          "tournament": true,
+          "categories": [
+            {
+              "category_id": 1,
+              "alias": "null",
+              "idx": 108620,
+              "name": "Без рубрики"
+            }
+          ],
+          "collections": [],
+          "demo": true,
+          "favourite": false,
+          "rtp": 96
+        },
+        {
+          "game_id": 45561,
+          "name": "Wild Buffalo: Fortune Wheel",
+          "alias": "175113-wild-buffalo-fortune-wheel",
+          "ratio": "16:9",
+          "images": {
+            "small": "https://altacdn.com/cj/img/games/175113-wild-buffalo-fortune-wheel.jpg",
+            "mid": "https://altacdn.com/cj/img/games/175113-wild-buffalo-fortune-wheel_thumbnailx2.jpg",
+            "big": null,
+            "promo": "https://altacdn.com/cj/img/games/175113-wild-buffalo-fortune-wheel.jpg"
+          },
+          "idx": 64,
+          "brand": {
+            "brand_id": 800,
+            "name": "NetGame",
+            "logo": "https://altacdn.com/cj/img/brands/netgame_logo.svg"
+          },
+          "tournament": true,
+          "categories": [
+            {
+              "category_id": 756,
+              "alias": "recommended",
+              "idx": 25,
+              "name": "Recommended"
+            }
+          ],
+          "collections": [],
+          "demo": true
+        },
+        {
+          "game_id": 35110,
+          "name": "Wild Buffalo: Hold 'n' Link",
+          "alias": "175114-wild-buffalo-hold-n-link",
+          "ratio": "16:9",
+          "images": {
+            "small": "https://altacdn.com/cj/img/games/175114-wild-buffalo-hold-n-link.jpg",
+            "mid": "https://altacdn.com/cj/img/games/175114-wild-buffalo-hold-n-link_thumbnailx2.jpg",
+            "big": null,
+            "promo": "https://altacdn.com/cj/img/games/175114-wild-buffalo-hold-n-link.jpg"
+          },
+          "idx": 66,
+          "brand": {
+            "brand_id": 800,
+            "name": "NetGame",
+            "logo": "https://altacdn.com/cj/img/brands/netgame_logo.svg"
+          },
+          "tournament": true,
+          "categories": [
+            {
+              "category_id": 756,
+              "alias": "recommended",
+              "idx": 18,
+              "name": "Recommended"
+            }
+          ],
+          "collections": [],
+          "demo": true
+        },
+        {
+          "game_id": 63183,
+          "name": "Wild Buffalo: Rapid Link",
+          "alias": "175120-wild-buffalo-rapid-link",
+          "ratio": "16:9",
+          "images": {
+            "small": "https://altacdn.com/cj/img/games/175120-wild-buffalo-rapid-link.jpg",
+            "mid": "https://altacdn.com/cj/img/games/175120-wild-buffalo-rapid-link_thumbnailx2.jpg",
+            "big": null,
+            "promo": "https://altacdn.com/cj/img/games/175120-wild-buffalo-rapid-link.jpg"
+          },
+          "idx": 67,
+          "brand": {
+            "brand_id": 800,
+            "name": "NetGame",
+            "logo": "https://altacdn.com/cj/img/brands/netgame_logo.svg"
+          },
+          "tournament": true,
+          "categories": [
+            {
+              "category_id": 1,
+              "alias": "null",
+              "idx": 108619,
+              "name": "Без рубрики"
+            }
+          ],
+          "collections": [],
+          "demo": true
+        }
+      ],
+      "brands": [],
+      "prizepool": {
+        "loyalty": 10
+      },
+      "leaderboard": [
+        {
+          "place": 1,
+          "player": {
+            "participant_id": 578712312,
+            "login": "TEST*****",
+            "currency": "EUR",
+            "rounds": 0,
+            "total_rounds": 0,
+            "bet": 0,
+            "win": 0,
+            "rating": 0,
+            "account_id": 64590123,
+            "current": false
+          },
+          "prize": []
+        },
+        {
+          "place": 2,
+          "player": {
+            "participant_id": 578712312,
+            "login": "TEST*****",
+            "currency": "EUR",
+            "rounds": 0,
+            "total_rounds": 0,
+            "bet": 0,
+            "win": 0,
+            "rating": 0,
+            "account_id": 64590123,
+            "current": false
+          },
+          "prize": []
+        },
+        {
+          "place": 3,
+          "player": {
+            "participant_id": 57871123234452345,
+            "login": "TEST*****",
+            "currency": "EUR",
+            "rounds": 0,
+            "total_rounds": 0,
+            "bet": 0,
+            "win": 0,
+            "rating": 0,
+            "account_id": 62345234235344590,
+            "current": false
+          },
+          "prize": []
+        },
+        {
+          "place": 4,
+          "player": {
+            "participant_id": 578237234234234,
+            "login": "TEST*****",
+            "currency": "EUR",
+            "rounds": 0,
+            "total_rounds": 0,
+            "bet": 0,
+            "win": 0,
+            "rating": 0,
+            "account_id": 6423452345590,
+            "current": false
+          },
+          "prize": []
+        },
+        {
+          "place": 5,
+          "player": {
+            "participant_id": 5787234134123234,
+            "login": "TEST*****",
+            "currency": "EUR",
+            "rounds": 0,
+            "total_rounds": 0,
+            "bet": 0,
+            "win": 0,
+            "rating": 0,
+            "account_id": 23232345,
+            "current": false
+          },
+          "prize": []
+        },
+        {
+          "place": 6,
+          "player": {
+            "participant_id": 578234237,
+            "login": "TEST*****",
+            "currency": "EUR",
+            "rounds": 0,
+            "total_rounds": 0,
+            "bet": 0,
+            "win": 0,
+            "rating": 0,
+            "account_id": 645902342,
+            "current": false
+          },
+          "prize": []
+        },
+        {
+          "place": 7,
+          "player": {
+            "participant_id": 5787234234234234,
+            "login": "TEST*****",
+            "currency": "EUR",
+            "rounds": 0,
+            "total_rounds": 0,
+            "bet": 0,
+            "win": 0,
+            "rating": 0,
+            "account_id": 64590,
+            "current": true
+          },
+          "prize": []
+        },
+        {
+          "place": 8,
+          "player": {
+            "participant_id": 572342871231234,
+            "login": "TEST*****",
+            "currency": "EUR",
+            "rounds": 0,
+            "total_rounds": 0,
+            "bet": 0,
+            "win": 0,
+            "rating": 0,
+            "account_id": 645902,
+            "current": false
+          },
+          "prize": []
+        },
+        {
+          "place": 9,
+          "player": {
+            "participant_id": 5787123412342134,
+            "login": "TEST*****",
+            "currency": "EUR",
+            "rounds": 0,
+            "total_rounds": 0,
+            "bet": 0,
+            "win": 0,
+            "rating": 0,
+            "account_id": 64591234123412340,
+            "current": false
+          },
+          "prize": []
+        },
+        {
+          "place": 10,
+          "player": {
+            "participant_id": 5787234,
+            "login": "TEST*****",
+            "currency": "EUR",
+            "rounds": 0,
+            "total_rounds": 0,
+            "bet": 0,
+            "win": 0,
+            "rating": 0,
+            "account_id": 64590,
+            "current": false
+          },
+          "prize": []
+        },
+        {
+          "place": 11,
+          "player": {
+            "participant_id": 5744487234,
+            "login": "TEST*****",
+            "currency": "EUR",
+            "rounds": 0,
+            "total_rounds": 0,
+            "bet": 0,
+            "win": 0,
+            "rating": 0,
+            "account_id": 64511190,
+            "current": false
+          },
+          "prize": []
+        },
+        {
+          "place": 12,
+          "player": {
+            "participant_id": 57874234234234,
+            "login": "TEST*****",
+            "currency": "EUR",
+            "rounds": 0,
+            "total_rounds": 0,
+            "bet": 0,
+            "win": 0,
+            "rating": 0,
+            "account_id": 64590234234234,
+            "current": false
+          },
+          "prize": []
+        }
+      ],
+      "filter": {
+        "type": "all",
+        "level": "",
+        "name": "",
+        "code": ""
+      },
+      "duration": {
+        "days": 15,
+        "hours": 23,
+        "minutes": 59
+      }
+    },
+    "categories": [
+      {
+        "category_id": 1,
+        "name": "Без рубрики",
+        "alias": "null",
+        "idx": 108620
+      }
+    ],
+    "collections": [],
+    "demo": true,
+    "favourite": false
+  }
+}

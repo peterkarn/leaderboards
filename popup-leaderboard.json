@@ -1,0 +1,1373 @@
+{
+  "total": 10,
+  "page": 1,
+  "pages": 1,
+  "result": [
+    {
+      "tournament_id": 49763,
+      "title": "Check leaderboard popup mode (just scroll up/down)",
+      "alias": "Exclusive-Spin-and-Win-October-49763",
+      "description": {
+        "excerpt": "",
+        "info": "",
+        "popup": "",
+        "rules": ""
+      },
+      "images": {
+        "main": "https://altacdn.com/sa/img/tournaments/sa_tournament_banner_exclusive_spin_aand_win_january-390x538@2.webp",
+        "head": "https://altacdn.com/sa",
+        "widget": "https://altacdn.com/sa",
+        "icon": "https://altacdn.com/sa",
+        "popup": "https://altacdn.com/sa"
+      },
+      "status": "complete",
+      "start": "2024-10-01 01:00:00",
+      "end": "2024-10-31 23:59:00",
+      "countdown": 0,
+      "joined": false,
+      "min_bets": [
+        {
+          "currency": "EUR",
+          "amount": 0.35
+        },
+        {
+          "currency": "CAD",
+          "amount": 0.35
+        },
+        {
+          "currency": "NOK",
+          "amount": 3.5
+        },
+        {
+          "currency": "PLN",
+          "amount": 1.5
+        },
+        {
+          "currency": "NZD",
+          "amount": 0.5
+        },
+        {
+          "currency": "AUD",
+          "amount": 0.5
+        },
+        {
+          "currency": "BRL",
+          "amount": 2
+        },
+        {
+          "currency": "KZT",
+          "amount": 175
+        },
+        {
+          "currency": "ARS",
+          "amount": 315
+        },
+        {
+          "currency": "CLP",
+          "amount": 350
+        },
+        {
+          "currency": "CHF",
+          "amount": 0.35
+        },
+        {
+          "currency": "HUF",
+          "amount": 135
+        }
+      ],
+      "win_limit": 33000,
+      "min_players": null,
+      "type": "multipliers",
+      "games": [
+        {
+          "game_id": 67807,
+          "name": "Gates of Olympus 1000",
+          "alias": "135212-gates-of-olympus-1000",
+          "ratio": "16:9",
+          "images": {
+            "small": "https://altacdn.com/sa/img/games/135212-gates-of-olympus-1000.jpg",
+            "mid": null,
+            "big": null,
+            "promo": "https://altacdn.com/sa/img/games/135212-gates-of-olympus-1000.jpg"
+          },
+          "idx": 17,
+          "brand": {
+            "brand_id": 960,
+            "name": "PragmaticPlay",
+            "logo": "https://altacdn.com/sa/img/brands/pragmaticplay_logo.svg"
+          },
+          "tournament": true,
+          "categories": [
+            {
+              "category_id": 499,
+              "alias": "other1",
+              "idx": 1,
+              "name": "Other1"
+            },
+            {
+              "category_id": 228,
+              "alias": "popular",
+              "idx": 1,
+              "name": "Popular"
+            },
+            {
+              "category_id": 251,
+              "alias": "main-top",
+              "idx": 16,
+              "name": "main top"
+            },
+            {
+              "category_id": 451,
+              "alias": "tournaments",
+              "idx": 55,
+              "name": "Tournaments"
+            }
+          ],
+          "collections": [],
+          "demo": true,
+          "favourite": false
+        },
+        {
+          "game_id": 1787,
+          "name": "Book of Dead",
+          "alias": "143778-book-of-dead",
+          "ratio": "16:9",
+          "images": {
+            "small": "https://altacdn.com/sa/img/games/143778-book-of-dead.jpg",
+            "mid": null,
+            "big": null,
+            "promo": "https://altacdn.com/sa/img/games/143778-book-of-dead.jpg"
+          },
+          "idx": 516,
+          "brand": {
+            "brand_id": 944,
+            "name": "PlaynGo",
+            "logo": "https://altacdn.com/sa/img/brands/playngo_logo.svg"
+          },
+          "tournament": true,
+          "categories": [
+            {
+              "category_id": 228,
+              "alias": "popular",
+              "idx": 6,
+              "name": "Popular"
+            },
+            {
+              "category_id": 451,
+              "alias": "tournaments",
+              "idx": 38,
+              "name": "Tournaments"
+            },
+            {
+              "category_id": 499,
+              "alias": "other1",
+              "idx": 5437,
+              "name": "Other1"
+            }
+          ],
+          "collections": [
+            {
+              "collection_id": 480,
+              "alias": "win-multiplier",
+              "idx": 3,
+              "name": "Win multiplier"
+            }
+          ],
+          "demo": true,
+          "favourite": true
+        },
+        {
+          "game_id": 65372,
+          "name": "Le Bandit",
+          "alias": "125174-le-bandit",
+          "ratio": "16:9",
+          "images": {
+            "small": "https://altacdn.com/sa/img/games/125174-le-bandit.jpg",
+            "mid": null,
+            "big": null,
+            "promo": "https://altacdn.com/sa/img/games/125174-le-bandit.jpg"
+          },
+          "idx": 118,
+          "brand": {
+            "brand_id": 470,
+            "name": "Hacksaw",
+            "logo": "https://altacdn.com/sa/img/brands/hacksaw_logo.svg"
+          },
+          "tournament": true,
+          "categories": [
+            {
+              "category_id": 629,
+              "alias": "slots",
+              "idx": 2,
+              "name": "Slots"
+            },
+            {
+              "category_id": 251,
+              "alias": "main-top",
+              "idx": 8,
+              "name": "main top"
+            },
+            {
+              "category_id": 499,
+              "alias": "other1",
+              "idx": 21,
+              "name": "Other1"
+            },
+            {
+              "category_id": 228,
+              "alias": "popular",
+              "idx": 82,
+              "name": "Popular"
+            },
+            {
+              "category_id": 229,
+              "alias": "new",
+              "idx": 877,
+              "name": "New"
+            }
+          ],
+          "collections": [
+            {
+              "collection_id": 477,
+              "alias": "pick-bonus",
+              "idx": 3,
+              "name": "Pick bonus"
+            }
+          ],
+          "demo": true,
+          "favourite": false
+        },
+        {
+          "game_id": 78772,
+          "name": "Big Bass Vegas Double Down Deluxe",
+          "alias": "156035-big-bass-vegas-double-down-deluxe",
+          "ratio": "16:9",
+          "images": {
+            "small": "https://altacdn.com/sa/img/games/156035-big-bass-vegas-double-down-deluxe.jpg",
+            "mid": null,
+            "big": null,
+            "promo": "https://altacdn.com/sa/img/games/156035-big-bass-vegas-double-down-deluxe.jpg"
+          },
+          "idx": 418,
+          "brand": {
+            "brand_id": 960,
+            "name": "PragmaticPlay",
+            "logo": "https://altacdn.com/sa/img/brands/pragmaticplay_logo.svg"
+          },
+          "tournament": true,
+          "categories": [
+            {
+              "category_id": 451,
+              "alias": "tournaments",
+              "idx": 26,
+              "name": "Tournaments"
+            },
+            {
+              "category_id": 229,
+              "alias": "new",
+              "idx": 466,
+              "name": "New"
+            },
+            {
+              "category_id": 629,
+              "alias": "slots",
+              "idx": 2252,
+              "name": "Slots"
+            }
+          ],
+          "collections": [],
+          "demo": true
+        },
+        {
+          "game_id": 21431,
+          "name": "Mental",
+          "alias": "138702-mental",
+          "ratio": "16:9",
+          "images": {
+            "small": "https://altacdn.com/sa/img/games/138702-mental.jpg",
+            "mid": null,
+            "big": null,
+            "promo": "https://altacdn.com/sa/img/games/138702-mental.jpg"
+          },
+          "idx": 96,
+          "brand": {
+            "brand_id": 938,
+            "name": "Nolimit city",
+            "logo": "https://altacdn.com/sa/img/brands/nolimit-city_logo.svg"
+          },
+          "tournament": true,
+          "categories": [
+            {
+              "category_id": 228,
+              "alias": "popular",
+              "idx": 84,
+              "name": "Popular"
+            },
+            {
+              "category_id": 499,
+              "alias": "other1",
+              "idx": 3294,
+              "name": "Other1"
+            }
+          ],
+          "collections": [
+            {
+              "collection_id": 477,
+              "alias": "pick-bonus",
+              "idx": 5,
+              "name": "Pick bonus"
+            }
+          ],
+          "demo": true,
+          "favourite": false
+        },
+        {
+          "game_id": 67415,
+          "name": "Darkness",
+          "alias": "149856-darkness",
+          "ratio": "16:9",
+          "images": {
+            "small": "https://altacdn.com/sa/img/games/149856-darkness.jpg",
+            "mid": null,
+            "big": null,
+            "promo": "https://altacdn.com/sa/img/games/149856-darkness.jpg"
+          },
+          "idx": 371,
+          "brand": {
+            "brand_id": 496,
+            "name": "Relax",
+            "logo": "https://altacdn.com/sa/img/brands/relax_logo.svg"
+          },
+          "tournament": true,
+          "categories": [
+            {
+              "category_id": 711,
+              "alias": "halloween",
+              "idx": 5,
+              "name": "Halloween"
+            },
+            {
+              "category_id": 629,
+              "alias": "slots",
+              "idx": 308,
+              "name": "Slots"
+            }
+          ],
+          "collections": [],
+          "demo": true
+        },
+        {
+          "game_id": 68285,
+          "name": "Diamonds Power: Hold and Win",
+          "alias": "133823-diamonds-power-hold-and-win",
+          "ratio": "16:9",
+          "images": {
+            "small": "https://altacdn.com/sa/img/games/133823-diamonds-power-hold-and-win.jpg",
+            "mid": null,
+            "big": null,
+            "promo": "https://altacdn.com/sa/img/games/133823-diamonds-power-hold-and-win.jpg"
+          },
+          "idx": 40,
+          "brand": {
+            "brand_id": 943,
+            "name": "Playson",
+            "logo": "https://altacdn.com/sa/img/brands/playsondirect_logo.svg"
+          },
+          "tournament": true,
+          "categories": [
+            {
+              "category_id": 224,
+              "alias": "jackpot",
+              "idx": 2,
+              "name": "Jackpot"
+            },
+            {
+              "category_id": 629,
+              "alias": "slots",
+              "idx": 23,
+              "name": "Slots"
+            },
+            {
+              "category_id": 228,
+              "alias": "popular",
+              "idx": 139,
+              "name": "Popular"
+            },
+            {
+              "category_id": 499,
+              "alias": "other1",
+              "idx": 1939,
+              "name": "Other1"
+            }
+          ],
+          "collections": [],
+          "demo": true,
+          "favourite": false
+        },
+        {
+          "game_id": 79398,
+          "name": "Super Hot Chilli",
+          "alias": "156408-super-hot-chilli",
+          "ratio": "16:9",
+          "images": {
+            "small": "https://altacdn.com/sa/img/games/156408-super-hot-chilli.jpg",
+            "mid": null,
+            "big": null,
+            "promo": "https://altacdn.com/sa/img/games/156408-super-hot-chilli.jpg"
+          },
+          "idx": null,
+          "brand": {
+            "brand_id": 1010,
+            "name": "Booongo",
+            "logo": "https://altacdn.com/sa/img/brands/booongo_logo.svg"
+          },
+          "tournament": true,
+          "categories": [
+            {
+              "category_id": 629,
+              "alias": "slots",
+              "idx": 24,
+              "name": "Slots"
+            }
+          ],
+          "collections": [],
+          "demo": true
+        },
+        {
+          "game_id": 78584,
+          "name": "7×7 Zeus",
+          "alias": "155801-7×7-zeus",
+          "ratio": "16:9",
+          "images": {
+            "small": "https://altacdn.com/sa/img/games/155801-7×7-zeus.jpg",
+            "mid": null,
+            "big": null,
+            "promo": "https://altacdn.com/sa/img/games/155801-7×7-zeus.jpg"
+          },
+          "idx": 777,
+          "brand": {
+            "brand_id": 953,
+            "name": "Yggdrasil",
+            "logo": "https://altacdn.com/sa/img/brands/yggdrasil_logo.svg"
+          },
+          "tournament": true,
+          "categories": [
+            {
+              "category_id": 228,
+              "alias": "popular",
+              "idx": 113,
+              "name": "Popular"
+            },
+            {
+              "category_id": 229,
+              "alias": "new",
+              "idx": 566,
+              "name": "New"
+            },
+            {
+              "category_id": 629,
+              "alias": "slots",
+              "idx": 2208,
+              "name": "Slots"
+            }
+          ],
+          "collections": [],
+          "demo": true,
+          "favourite": false
+        },
+        {
+          "game_id": 77986,
+          "name": "SixSixSix",
+          "alias": "154011-sixsixsix",
+          "ratio": "16:9",
+          "images": {
+            "small": "https://altacdn.com/sa/img/games/154011-sixsixsix.jpg",
+            "mid": null,
+            "big": null,
+            "promo": "https://altacdn.com/sa/img/games/154011-sixsixsix.jpg"
+          },
+          "idx": 156,
+          "brand": {
+            "brand_id": 470,
+            "name": "Hacksaw",
+            "logo": "https://altacdn.com/sa/img/brands/hacksaw_logo.svg"
+          },
+          "tournament": true,
+          "categories": [
+            {
+              "category_id": 711,
+              "alias": "halloween",
+              "idx": 43,
+              "name": "Halloween"
+            },
+            {
+              "category_id": 228,
+              "alias": "popular",
+              "idx": 115,
+              "name": "Popular"
+            },
+            {
+              "category_id": 229,
+              "alias": "new",
+              "idx": 642,
+              "name": "New"
+            },
+            {
+              "category_id": 629,
+              "alias": "slots",
+              "idx": 1811,
+              "name": "Slots"
+            }
+          ],
+          "collections": [
+            {
+              "collection_id": 477,
+              "alias": "pick-bonus",
+              "idx": 9,
+              "name": "Pick bonus"
+            }
+          ],
+          "demo": true,
+          "favourite": false
+        },
+        {
+          "game_id": 77721,
+          "name": "Pirots 3",
+          "alias": "153516-pirots-3",
+          "ratio": "16:9",
+          "images": {
+            "small": "https://altacdn.com/sa/img/games/153516-pirots-3.jpg",
+            "mid": null,
+            "big": null,
+            "promo": "https://altacdn.com/sa/img/games/153516-pirots-3.jpg"
+          },
+          "idx": 198,
+          "brand": {
+            "brand_id": 925,
+            "name": "ELKStudios",
+            "logo": "https://altacdn.com/sa/img/brands/elkstudios_logo.svg"
+          },
+          "tournament": true,
+          "categories": [
+            {
+              "category_id": 629,
+              "alias": "slots",
+              "idx": 16,
+              "name": "Slots"
+            },
+            {
+              "category_id": 228,
+              "alias": "popular",
+              "idx": 87,
+              "name": "Popular"
+            },
+            {
+              "category_id": 229,
+              "alias": "new",
+              "idx": 714,
+              "name": "New"
+            }
+          ],
+          "collections": [],
+          "demo": true,
+          "favourite": false
+        },
+        {
+          "game_id": 78210,
+          "name": "Junkyard Kings",
+          "alias": "154851-junkyard-kings",
+          "ratio": "16:9",
+          "images": {
+            "small": "https://altacdn.com/sa/img/games/154851-junkyard-kings.jpg",
+            "mid": null,
+            "big": null,
+            "promo": "https://altacdn.com/sa/img/games/154851-junkyard-kings.jpg"
+          },
+          "idx": 166,
+          "brand": {
+            "brand_id": 470,
+            "name": "Hacksaw",
+            "logo": "https://altacdn.com/sa/img/brands/hacksaw_logo.svg"
+          },
+          "tournament": true,
+          "categories": [
+            {
+              "category_id": 629,
+              "alias": "slots",
+              "idx": 57,
+              "name": "Slots"
+            },
+            {
+              "category_id": 228,
+              "alias": "popular",
+              "idx": 67,
+              "name": "Popular"
+            }
+          ],
+          "collections": [],
+          "demo": true,
+          "favourite": false
+        },
+        {
+          "game_id": 78609,
+          "name": "Train to Rio Grande",
+          "alias": "155844-train-to-rio-grande",
+          "ratio": "16:9",
+          "images": {
+            "small": "https://altacdn.com/sa/img/games/155844-train-to-rio-grande.jpg",
+            "mid": null,
+            "big": null,
+            "promo": "https://altacdn.com/sa/img/games/155844-train-to-rio-grande.jpg"
+          },
+          "idx": 145,
+          "brand": {
+            "brand_id": 606,
+            "name": "BGaming",
+            "logo": "https://altacdn.com/sa/img/brands/bgaming_logo.svg"
+          },
+          "tournament": true,
+          "categories": [
+            {
+              "category_id": 229,
+              "alias": "new",
+              "idx": 516,
+              "name": "New"
+            },
+            {
+              "category_id": 629,
+              "alias": "slots",
+              "idx": 2218,
+              "name": "Slots"
+            }
+          ],
+          "collections": [],
+          "demo": true
+        },
+        {
+          "game_id": 59249,
+          "name": "Burning Sun™",
+          "alias": "141633-burning-sun™",
+          "ratio": "16:9",
+          "images": {
+            "small": "https://altacdn.com/sa/img/games/141633-burning-sun™.jpg",
+            "mid": null,
+            "big": null,
+            "promo": "https://altacdn.com/sa/img/games/141633-burning-sun™.jpg"
+          },
+          "idx": 402,
+          "brand": {
+            "brand_id": 941,
+            "name": "Wazdan",
+            "logo": "https://altacdn.com/sa/img/brands/wazdan_logo.svg"
+          },
+          "tournament": true,
+          "categories": [
+            {
+              "category_id": 224,
+              "alias": "jackpot",
+              "idx": 3056,
+              "name": "Jackpot"
+            },
+            {
+              "category_id": 499,
+              "alias": "other1",
+              "idx": 4511,
+              "name": "Other1"
+            }
+          ],
+          "collections": [],
+          "demo": true
+        },
+        {
+          "game_id": 56820,
+          "name": "Wild Buffalo: Hold 'n' Link",
+          "alias": "94055-wild-buffalo-hold-n-link",
+          "ratio": "16:9",
+          "images": {
+            "small": "https://altacdn.com/sa/img/games/94055-wild-buffalo-hold-n-link.jpg",
+            "mid": null,
+            "big": null,
+            "promo": "https://altacdn.com/sa/img/games/94055-wild-buffalo-hold-n-link.jpg"
+          },
+          "idx": 1,
+          "brand": {
+            "brand_id": 800,
+            "name": "NetGame",
+            "logo": "https://altacdn.com/sa/img/brands/netgame_logo.svg"
+          },
+          "tournament": true,
+          "categories": [
+            {
+              "category_id": 629,
+              "alias": "slots",
+              "idx": 58,
+              "name": "Slots"
+            },
+            {
+              "category_id": 227,
+              "alias": "other",
+              "idx": 5589,
+              "name": "Other"
+            }
+          ],
+          "collections": [],
+          "demo": true,
+          "favourite": false
+        }
+      ],
+      "brands": [],
+      "prizepool": {
+        "loyalty": 5000
+      },
+      "leaderboard": [
+        {
+          "place": 20,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 1000,
+              "wager": 0
+            }
+          ],
+          "player": {
+            "participant_id": 5492,
+            "login": "TEST*****",
+            "currency": "EUR",
+            "rounds": 13,
+            "total_rounds": 13,
+            "bet": 13,
+            "win": 151.26,
+            "rating": 263,
+            "account_id": 43190,
+            "current": true
+          }
+        },
+        {
+          "place": 2,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 700,
+              "wager": 0
+            }
+          ],
+          "player": {
+            "participant_id": 5509,
+            "login": "TEST*****",
+            "currency": "CAD",
+            "rounds": 10,
+            "total_rounds": 10,
+            "bet": 23,
+            "win": 2.99,
+            "rating": 10,
+            "account_id": 43178,
+            "current": false
+          }
+        },
+        {
+          "place": 3,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 500,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 4,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 350,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 5,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 250,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 6,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 150,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 7,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 150,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 8,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 150,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 9,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 150,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 10,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 150,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 11,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 75,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 12,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 75,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 13,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 75,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 14,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 75,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 15,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 75,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 16,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 75,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 17,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 75,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 18,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 75,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 19,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 75,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 20,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 75,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 21,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 35,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 22,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 35,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 23,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 35,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 24,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 35,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 25,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 35,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 26,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 35,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 27,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 35,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 28,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 35,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 29,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 35,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 30,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 35,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 31,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 25,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 32,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 25,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 33,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 25,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 34,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 25,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 35,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 25,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 36,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 25,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 37,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 25,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 38,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 25,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 39,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 25,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 40,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 25,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 41,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 10,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 42,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 10,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 43,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 10,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 44,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 10,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 45,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 10,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 46,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 10,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 47,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 10,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 48,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 10,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 49,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 10,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 50,
+          "prize": [
+            {
+              "type": "loyalty",
+              "amount": 10,
+              "wager": 0
+            }
+          ],
+          "player": {}
+        },
+        {
+          "place": 51,
+          "player": {
+            "participant_id": 5467,
+            "login": "TEST*****",
+            "currency": "EUR",
+            "rounds": 0,
+            "total_rounds": 0,
+            "bet": 0,
+            "win": 0,
+            "rating": 0,
+            "account_id": 43176,
+            "current": false
+          },
+          "prize": []
+        },
+        {
+          "place": 52,
+          "player": {
+            "participant_id": 5505,
+            "login": "PLAY*****",
+            "currency": "CAD",
+            "rounds": 0,
+            "total_rounds": 0,
+            "bet": 0,
+            "win": 0,
+            "rating": 0,
+            "account_id": 46350,
+            "current": false
+          },
+          "prize": []
+        },
+        {
+          "place": 53,
+          "player": {
+            "participant_id": 5508,
+            "login": "PLAY*****",
+            "currency": "EUR",
+            "rounds": 0,
+            "total_rounds": 0,
+            "bet": 0,
+            "win": 0,
+            "rating": 0,
+            "account_id": 53911,
+            "current": false
+          },
+          "prize": []
+        },
+        {
+          "place": 54,
+          "player": {
+            "participant_id": 5608,
+            "login": "TEST*****",
+            "currency": "EUR",
+            "rounds": 0,
+            "total_rounds": 0,
+            "bet": 0,
+            "win": 0,
+            "rating": 0,
+            "account_id": 43252,
+            "current": false
+          },
+          "prize": []
+        }
+      ],
+      "filter": {
+        "type": "all",
+        "level": "",
+        "name": "",
+        "code": ""
+      },
+      "duration": {
+        "days": 30,
+        "hours": 22,
+        "minutes": 59
+      }
+    }
+  ]
+}
